@@ -1,4 +1,4 @@
-#Python is a dynamically typed language. Python uses values not variables :)
+# Python is a dynamically typed language. Python uses values not variables :)
 a = 100
 b = "foo"
 c = True
@@ -13,7 +13,7 @@ print(c)
 print(d)
 print(a+d)
 
-#bunch of different ways to concatenate different datatypes, format is recommended I believe
+# Bunch of different ways to concatenate different datatypes, format is recommended I believe
 print(str(a)+e)
 print(a,e)
 print("Concatenate: {} {}".format(a,e))
